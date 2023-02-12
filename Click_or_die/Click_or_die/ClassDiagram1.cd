@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Click_or_die.GameWindow">
+    <Position X="7.75" Y="1.25" Width="4" />
+    <TypeIdentifier>
+      <HashCode>YEQAjAAAAKBBABQAAYCIBAQSEAgIpAAAAGAoIAAAAAA=</HashCode>
+      <FileName>GameWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Click_or_die.ChooseLevel">
+    <Position X="1.5" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAEA4AAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ChooseLevel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Click_or_die.HowToPlay">
+    <Position X="4.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HowToPlay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Click_or_die.Menu">
+    <Position X="4.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAEA4AAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Click_or_die.Shop">
+    <Position X="12.75" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAAAABAACAAIACAMw7AAAgAAAAQAAAAAA=</HashCode>
+      <FileName>Shop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

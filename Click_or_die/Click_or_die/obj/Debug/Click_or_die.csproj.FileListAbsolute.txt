@@ -1,0 +1,14 @@
+D:\JPWP gra - Click or die\Click_or_die\Click_or_die\Click_or_die\bin\Debug\Click_or_die.exe.config
+D:\JPWP gra - Click or die\Click_or_die\Click_or_die\Click_or_die\bin\Debug\Click_or_die.exe
+D:\JPWP gra - Click or die\Click_or_die\Click_or_die\Click_or_die\bin\Debug\Click_or_die.pdb
+D:\JPWP gra - Click or die\Click_or_die\Click_or_die\Click_or_die\obj\Debug\Click_or_die.csproj.AssemblyReference.cache
+D:\JPWP gra - Click or die\Click_or_die\Click_or_die\Click_or_die\obj\Debug\Click_or_die.Properties.Resources.resources
+D:\JPWP gra - Click or die\Click_or_die\Click_or_die\Click_or_die\obj\Debug\Click_or_die.csproj.GenerateResource.cache
+D:\JPWP gra - Click or die\Click_or_die\Click_or_die\Click_or_die\obj\Debug\Click_or_die.csproj.CoreCompileInputs.cache
+D:\JPWP gra - Click or die\Click_or_die\Click_or_die\Click_or_die\obj\Debug\Click_or_die.exe
+D:\JPWP gra - Click or die\Click_or_die\Click_or_die\Click_or_die\obj\Debug\Click_or_die.pdb
+D:\JPWP gra - Click or die\Click_or_die\Click_or_die\Click_or_die\obj\Debug\Click_or_die.GameWindow.resources
+D:\JPWP gra - Click or die\Click_or_die\Click_or_die\Click_or_die\obj\Debug\Click_or_die.Menu.resources
+D:\JPWP gra - Click or die\Click_or_die\Click_or_die\Click_or_die\obj\Debug\Click_or_die.ChooseLevel.resources
+D:\JPWP gra - Click or die\Click_or_die\Click_or_die\Click_or_die\obj\Debug\Click_or_die.HowToPlay.resources
+D:\JPWP gra - Click or die\Click_or_die\Click_or_die\Click_or_die\obj\Debug\Click_or_die.Shop.resources
